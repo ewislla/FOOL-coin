@@ -19,7 +19,7 @@ const Hero = () => {
           {/* Logo */}
           <div className="mb-8">
             <div className="w-32 h-32 mx-auto mb-4 shadow-2xl shadow-red-600/50 rounded-full overflow-hidden">
-              <img src="/public/IMG_4764.jpg" alt="$FOOL Logo" className="w-full h-full object-cover" />
+              <img src="assets/logo.jpg" alt="$FOOL Logo" className="w-full h-full object-cover" />
             </div>
           </div>
 

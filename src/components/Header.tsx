@@ -29,10 +29,8 @@ const Header = () => {
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-2">
-            <div className="w-8 h-8 bg-red-600 rounded-full flex items-center justify-center">
-              <span className="text-white font-bold text-lg">💀</span>
-            </div>
-            <img src="/public/IMG_4764.jpg" alt="$FOOL Logo" className="w-8 h-8 rounded-full object-cover" />
+            
+            <img src="assets/logo.jpg" alt="$FOOL Logo" className="w-8 h-8 rounded-full object-cover" />
           </div>
 
           {/* Desktop Navigation */}
